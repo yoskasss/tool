@@ -29,7 +29,7 @@ dosya şifreleme/şifre çözme.
 
 ### 🏠 [HeJo Trojen](./HeJo-Trojen-main)
 
-**Amaç:** Bu Kod https://github.com/yoskasss/tool/tree/main/HeJo-Trojen-main HeJo Trojen'i daha kolay oluşturmak için yazılmıştır
+**Amaç:**  Bu Kod https://github.com/yoskasss/tool/tree/main/HeJo-Trojen-main HeJo Trojen'i daha kolay oluşturmak için yazılmıştır
 ---
 
 ### 🌐 [HeJo Chat](./HeJoChat-main)
@@ -38,11 +38,7 @@ dosya şifreleme/şifre çözme.
 
 ---
 
-### 💳 [kart-bin-sorgu](./kart-bin-sorgu)
 
-**Amaç:** Kredi kartı BIN (Bank Identification Number) numarası ile kart tipi ve banka bilgilerini öğrenmek.
-
----
 
 ### 📧 [mail-olusturucu](./mail-olusturucu)
 
@@ -65,12 +61,6 @@ dosya şifreleme/şifre çözme.
 ### 🔢 [c-spam](./c-spam-main)
 
 **Amaç:** Bu proje, Windows API kullanarak belirli bir mesajı belirtilen sıklıkta ve süre boyunca yazan basit bir GUI uygulamasıdır. Kullanıcı, mesajı, frekansı ve süresini belirleyerek otomatik mesaj yazma işlemini başlatabilir.
-
----
-
-### 🔍 [tc-tel-ile-kisi](./tc-tel-ile-kisi)
-
-**Amaç:** T.C. kimlik numarası ve telefon numarasıyla kişiye ulaşmak.
 
 ---
 
