@@ -1,0 +1,6 @@
+﻿phonenumbers
+requests
+folium
+pyarmor
+opencage
+pyfiglet
