@@ -1,4 +1,4 @@
-# 🔧 yoskasss/tool
+# 🔧 yoskasss/HackTool
 
 Tüm geliştirdiğim araçları (tool'ları) bu repoda topluyorum. Her biri farklı amaçlara hizmet eden, çeşitli görevleri kolaylaştıran küçük ama etkili araçlardır.
 
