@@ -39,11 +39,6 @@ dosya şifreleme/şifre çözme.
 ---
 
 
-
-### 📧 [mail-olusturucu](./mail-olusturucu)
-
-**Amaç:** Geçici/fake e-posta adresleri oluşturmak.
-
 ---
 
 ### 🔮 [HiLog](./HiLog-main)
